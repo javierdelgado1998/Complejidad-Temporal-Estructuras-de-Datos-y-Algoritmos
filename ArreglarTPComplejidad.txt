@@ -1,0 +1,5 @@
+Consultas 1 2 y 3, cambir el foreach al null
+
+En el primer for no hace falta, solo dejar el return , (camino hasta raiz)
+
+Los metods de caminos son iguales, se puede agregar una variable entera para comparar a que camino quiero con los bool
